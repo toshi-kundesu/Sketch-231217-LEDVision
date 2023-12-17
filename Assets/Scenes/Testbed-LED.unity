@@ -105002,10 +105002,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1614466238588737003, guid: 1fbb4b1f23a252a42adbe8246455d651,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2213673558396178808, guid: 1fbb4b1f23a252a42adbe8246455d651,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8111478707298752243, guid: 1fbb4b1f23a252a42adbe8246455d651,
         type: 3}
       propertyPath: m_Name
       value: LightConsole
+      objectReference: {fileID: 0}
+    - target: {fileID: 9189415997823735886, guid: 1fbb4b1f23a252a42adbe8246455d651,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
